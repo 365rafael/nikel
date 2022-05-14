@@ -1,6 +1,8 @@
 # nikel
 Criação de uma aplicação web para lançamento de entradas e saídas financeiras.
 
+Teste você mesmo: https://365rafael.github.io/nikel/
+
 #Tela de Login:
 ![image](https://user-images.githubusercontent.com/97065934/159498758-3747b41f-2ce1-490d-80c1-82af93033be3.png)
 
